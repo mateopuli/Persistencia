@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0ccf86d347391e449fd2ef2f5b6e8e3, type: 3}
   m_Name: Boss2
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
